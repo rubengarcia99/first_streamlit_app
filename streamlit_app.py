@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 import requests
-import requirements.txt
+import snowflake.connector
 
 streamlit.title('My Parents New Helathy Diner')
 
