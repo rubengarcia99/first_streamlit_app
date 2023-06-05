@@ -1,6 +1,7 @@
 import streamlit
 import pandas
 import requests
+import requirements.txt
 
 streamlit.title('My Parents New Helathy Diner')
 
